@@ -1,0 +1,12 @@
+D:\pers\WaProyectoGrado\ProjectManager.Data\bin\Debug\netcoreapp3.1\ProjectManager.Data.deps.json
+D:\pers\WaProyectoGrado\ProjectManager.Data\bin\Debug\netcoreapp3.1\ProjectManager.Data.dll
+D:\pers\WaProyectoGrado\ProjectManager.Data\obj\Debug\netcoreapp3.1\ProjectManager.Data.AssemblyInfoInputs.cache
+D:\pers\WaProyectoGrado\ProjectManager.Data\obj\Debug\netcoreapp3.1\ProjectManager.Data.AssemblyInfo.cs
+D:\pers\WaProyectoGrado\ProjectManager.Data\bin\Debug\netcoreapp3.1\ProjectManager.Data.runtimeconfig.json
+D:\pers\WaProyectoGrado\ProjectManager.Data\bin\Debug\netcoreapp3.1\ProjectManager.Data.runtimeconfig.dev.json
+D:\pers\WaProyectoGrado\ProjectManager.Data\obj\Debug\netcoreapp3.1\ProjectManager.Data.genruntimeconfig.cache
+D:\pers\WaProyectoGrado\ProjectManager.Data\obj\Debug\netcoreapp3.1\ProjectManager.Data.csproj.CoreCompileInputs.cache
+D:\pers\WaProyectoGrado\ProjectManager.Data\bin\Debug\netcoreapp3.1\ProjectManager.Data.pdb
+D:\pers\WaProyectoGrado\ProjectManager.Data\obj\Debug\netcoreapp3.1\ProjectManager.Data.dll
+D:\pers\WaProyectoGrado\ProjectManager.Data\obj\Debug\netcoreapp3.1\ProjectManager.Data.pdb
+D:\pers\WaProyectoGrado\ProjectManager.Data\obj\Debug\netcoreapp3.1\ProjectManager.Data.csprojAssemblyReference.cache
